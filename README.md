@@ -14,32 +14,55 @@ A modern, professional pet hotel and boarding website built with Next.js 15, Typ
 ## 📸 Screenshots
 
 ### 🏠 Homepage - Hero Section
-![Homepage Hero](./assets/homepage-hero.png)
+![Homepage Hero](./assets/desktop1.png)
 *Modern hero section with compelling call-to-action and service overview*
 
 ### 💎 Services - Accommodation Options
-![Services Page](./assets/services-page.png)
+![Services Page](./assets/desktop2.png)
 *Detailed accommodation options with pricing and premium features*
 
 ### 🖼️ Gallery - Interactive Photo Gallery
-![Gallery Page](./assets/gallery-page.png)
+![Gallery Page](./assets/desktop3.png)
 *Professional photo gallery with category filtering and lightbox*
 
 ### ℹ️ About Us - Company Story
-![About Page](./assets/about-page.png)
+![About Page](./assets/desktop4.png)
 *Company story, team profiles, and company achievements*
 
 ### 📞 Contact - Contact Form & Information
-![Contact Page](./assets/contact-page.png)
+![Contact Page](./assets/desktop5.png)
 *Professional contact form with business information and FAQ*
 
 ### 📅 Booking - Multi-step Reservation
-![Booking Page](./assets/booking-page.png)
+![Booking Page](./assets/desktop6.png)
 *Complete booking system with pet details and service selection*
 
+### 🌟 Additional Pages
+![Additional Desktop Views](./assets/desktop7.png)
+*Additional desktop views showcasing more features*
+
+![More Desktop Features](./assets/desktop8.png)
+*Complete website functionality and design elements*
+
+![Full Desktop Experience](./assets/desktop9.png)
+*Comprehensive desktop user experience*
+
 ### 📱 Mobile Responsive Design
-![Mobile View](./assets/mobile-responsive.png)
-*Fully responsive design optimized for all device sizes*
+![Mobile View 1](./assets/mobile1.png)
+*Mobile homepage with responsive navigation and hero section*
+
+![Mobile View 2](./assets/mobile2.png)
+*Mobile-optimized content and user interface*
+
+![Mobile View 3](./assets/mobile3.png)
+*Complete mobile experience with touch-friendly design*
+
+### 📊 Tablet Experience
+![Tablet View 1](./assets/tablet1.png)
+*Tablet-optimized layout and user experience*
+
+![Tablet View 2](./assets/tablet2.png)
+*Comprehensive tablet design and functionality*
 
 ---
 
