@@ -17,29 +17,29 @@ A modern, professional pet hotel and boarding website built with Next.js 15, Typ
 ![Homepage Hero](./assets/desktop1.png)
 *Modern hero section with compelling call-to-action and service overview*
 
-### 💎 Services - Accommodation Options
-![Services Page](./assets/desktop2.png)
+### 💎 Services - What Our Customers Say
+![What Our Customers Say](./assets/desktop2.png)
+*Customer testimonials and reviews showcasing our excellent service*
+
+### 🖼️ Gallery - Accommodations Options
+![Accommodations Options](./assets/desktop3.png)
 *Detailed accommodation options with pricing and premium features*
 
-### 🖼️ Gallery - Interactive Photo Gallery
-![Gallery Page](./assets/desktop3.png)
+### ℹ️ About Us - Additional Services  
+![Additional Services](./assets/desktop4.png)
+*Professional grooming, veterinary care, and premium add-on services*
+
+### 📞 Contact - Gallery
+![Gallery](./assets/desktop5.png)
 *Professional photo gallery with category filtering and lightbox*
 
-### ℹ️ About Us - Company Story
-![About Page](./assets/desktop4.png)
-*Company story, team profiles, and company achievements*
+### 📅 Booking - Gallery
+![Gallery Interactive](./assets/desktop6.png)
+*Interactive photo gallery showcasing our facilities and happy pets*
 
-### 📞 Contact - Contact Form & Information
-![Contact Page](./assets/desktop5.png)
-*Professional contact form with business information and FAQ*
-
-### 📅 Booking - Multi-step Reservation
-![Booking Page](./assets/desktop6.png)
-*Complete booking system with pet details and service selection*
-
-### 🌟 Additional Pages
-![Additional Desktop Views](./assets/desktop7.png)
-*Additional desktop views showcasing more features*
+### 🌟 Additional Pages - Gallery
+![Gallery Features](./assets/desktop7.png)
+*Complete gallery experience with lightbox and category filtering*
 
 ![More Desktop Features](./assets/desktop8.png)
 *Complete website functionality and design elements*
