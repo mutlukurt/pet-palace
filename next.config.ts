@@ -5,6 +5,8 @@ const nextConfig: NextConfig = {
   trailingSlash: true,
   skipTrailingSlashRedirect: true,
   distDir: 'out',
+  basePath: '/pet-palace',
+  assetPrefix: '/pet-palace',
   eslint: {
     ignoreDuringBuilds: true,
   },
