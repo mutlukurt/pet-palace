@@ -4,7 +4,8 @@ const nextConfig: NextConfig = {
   output: 'export',
   distDir: 'out',
   basePath: '/pet-palace',
-  assetPrefix: '/pet-palace',
+  assetPrefix: '/pet-palace/',
+  trailingSlash: true,
   eslint: {
     ignoreDuringBuilds: true,
   },
@@ -22,6 +23,9 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  // GitHub Pages için özel ayarlar
+  generateBuildId: () => 'build',
+  poweredByHeader: false,
 };
 
 export default nextConfig;

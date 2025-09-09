@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Palace - Page Not Found</title>
+    <script>
+        // GitHub Pages SPA redirect
+        const path = window.location.pathname.slice(1);
+        if (path && path !== '404.html') {
+            window.location.replace('/pet-palace/' + path);
+        } else {
+            window.location.replace('/pet-palace/');
+        }
+    </script>
+</head>
+<body>
+    <div style="text-align: center; padding: 50px; font-family: Arial, sans-serif;">
+        <h1>Redirecting...</h1>
+        <p>If you are not redirected automatically, <a href="/pet-palace/">click here</a>.</p>
+    </div>
+</body>
+</html>
